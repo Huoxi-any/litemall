@@ -182,7 +182,7 @@
             <dependency>
                 <groupId>com.aliyun</groupId>
                 <artifactId>aliyun-java-sdk-core</artifactId>
-                <version>4.0.3</version>
+                <version>4.7.5</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
